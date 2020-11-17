@@ -8,7 +8,10 @@ Thierno Balde
 Sandrine Akilano
 Ulysee Perret
 
+<<<<<<< Updated upstream
 
 mon premier commit
 
 baptiste
+=======
+>>>>>>> Stashed changes
