@@ -2,4 +2,8 @@
 PourTester
 
 
-Test Baptiste
+Personne  travaillant dans le projet
+Baptiste dantas
+Thierno Balde
+Sandrine Akilano
+Ulysee Perret
