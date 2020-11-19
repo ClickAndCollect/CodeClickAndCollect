@@ -1,6 +1,6 @@
 <template>
     <nav class="menu">
-        <router-link class="link" to="/">Accueil</router-link>
+        <router-link class="link" to="/"><img class="btn_accueil" src="../assets/accueil.png" alt=""></router-link>
         <router-link class="link" to="/Hommes">Hommes</router-link>
          <router-link class="link" to="/Femmes">Femmes</router-link>
         <router-link class="link" to="/Panier">Panier</router-link>
@@ -65,5 +65,10 @@ body {
 .link:hover {
   background-color: #ddd;
   color: black;
+}
+
+.btn_accueil {
+    width: 40px;
+    
 }
 </style>
