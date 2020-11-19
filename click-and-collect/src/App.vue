@@ -1,16 +1,20 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Accueil</router-link> |
-      <router-link to="/Hommes">Hommes</router-link>
-      <router-link to="/Femmes">Femmes</router-link>
-      <router-link to="/Panier">Panier</router-link>
-      <router-link to="/SeConnecter">Se connecter</router-link>
-
-    </div>
+    <v-header></v-header>
     <router-view/>
   </div>
 </template>
+
+<script>
+import VHeader from './components/VHeader.vue'
+
+export default {
+  name: 'App',
+  components: {
+    VHeader,
+  }
+}
+</script>
 
 <style>
 #app {
