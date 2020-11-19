@@ -11,13 +11,37 @@ const routes = [
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',
+    path: '/hommes',
+    name: 'Hommes',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
+    component: () => import(/* webpackChunkName: "hommes" */ '../views/Hommes.vue')
+  },
+  {
+    path: '/femmes',
+    name: 'Femmes',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "femmes" */ '../views/Femmes.vue')
+  },
+  {
+    path: '/panier',
+    name: 'Panier',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "panier" */ '../views/Panier.vue')
+  },
+  {
+    path: '/seConnecter',
+    name: 'SeConnecter',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "seConnecter" */ '../views/SeConnecter.vue')
+  },
 ]
 
 const router = new VueRouter({
