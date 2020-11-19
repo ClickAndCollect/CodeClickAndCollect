@@ -24,5 +24,9 @@ export default {
 
 
 <style lang="postcss">
+.accueil {
+    margin-top: 150px;
+}
+
 
 </style>
