@@ -30,7 +30,9 @@ body {
     justify-content: space-around;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
 }
 
 .link {
