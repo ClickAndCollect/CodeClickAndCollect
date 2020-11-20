@@ -30,6 +30,7 @@ body {
     justify-content: space-around;
     padding-top: 10px;
     padding-bottom: 10px;
+    
 }
 
 .link {
