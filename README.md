@@ -16,4 +16,5 @@ Personnes travaillant dans le projet :
 * Thierno Balde
 * Sandrine Akilano
 * Ulysee Perret
+* Benjamin Stoband
 
