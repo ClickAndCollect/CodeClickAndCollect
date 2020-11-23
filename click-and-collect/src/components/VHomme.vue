@@ -83,9 +83,15 @@
 .container {
   padding-left: 150px;
 }
-  #border {
-    margin-right: 30px;
-    margin-top: 50px;
-    border-radius: 10px;
-    box-shadow: 8px 8px 2px 1px grey;
-  }
+#border {
+  margin-right: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 8px 8px 2px 1px grey;
+}
+
+.panel-heading {
+  font-size: 20px;
+}
+
+</style>
