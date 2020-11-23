@@ -4,7 +4,24 @@
     <router-view/>
   </div>
 </template>
+   <?php
+    // echo "Bonjour le monde"; //pour test php
+    //Sous WAMP 
+    //$bdd = new PDO('mysql:host=localhost;dbname=clickandcollect;charset=utf8', 'root', '');
 
+    // Sous MAMP
+    //$bdd = new PDO('mysql:host=http://localhost:8888/;dbname=clickandcollect;charset=utf8', 'root', 'root');
+    echo "Bonjour le monde";
+
+    $serv='localhost';
+    $util='root';
+    $pwd='root';
+    $base='clickandcollect';
+    //connexion au serveur de données
+    $cx=mysqli_connect($serv,$util,$pwd) or die('connexion au serveur '.$serv.' impossible');
+    //connexion a la base de données
+    $cxb=mysqli_select_db($cx,$base) or die('connexion à la base '.$base.' impossible');
+  ?> 
 <script>
 import VHeader from './components/VHeader.vue'
 
