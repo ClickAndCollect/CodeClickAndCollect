@@ -1,8 +1,8 @@
 <template>
     <nav class="menu">
         <router-link class="link" to="/">Accueil</router-link>
+        <router-link class="link" to="/Femmes">Femmes</router-link>
         <router-link class="link" to="/Hommes">Hommes</router-link>
-         <router-link class="link" to="/Femmes">Femmes</router-link>
         <router-link class="link" to="/Panier">Panier</router-link>
         <router-link class="link" to="/SeConnecter">Se connecter</router-link>
     </nav>
