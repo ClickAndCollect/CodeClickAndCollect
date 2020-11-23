@@ -40,13 +40,6 @@
         <div class="panel-footer">prix: <strong>15€</strong></div>
       </div>
     </div>
-    <div id="border" class="col-md-5"> 
-      <div class="panel panel-primary">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
-        <div class="panel-body"><img src="..\assets\Femmes\19-la-vie-est-Belle.jpg" class="img-responsive" style="width:50%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
-      </div>
-    </div>
   </div>
 </div><br>
 </div>
@@ -57,10 +50,10 @@
 
 <style>
   #border {
-    border: 3px solid #2cbdae;
     margin-right: 30px;
     margin-top: 50px;
     border-radius: 10px;
+    box-shadow: 8px 8px 2px 1px grey;
   }
 </style>
 
