@@ -42,6 +42,14 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "seConnecter" */ '../views/SeConnecter.vue')
   },
+  {
+    path: '/inscription',
+    name: 'Inscription',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "inscription" */ '../views/Inscription.vue')
+  },
 ]
 
 const router = new VueRouter({
