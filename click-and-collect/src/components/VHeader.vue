@@ -1,47 +1,81 @@
 <template>
-    <nav class="menu">
-        <router-link class="link" to="/">Accueil</router-link>
-        <router-link class="link" to="/Femmes">Femmes</router-link>
-        <router-link class="link" to="/Hommes">Hommes</router-link>
-        <router-link class="link" to="/Panier">Panier</router-link>
-        <router-link class="link" to="/SeConnecter">Se connecter</router-link>
-    </nav>
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarColor01"
+      aria-controls="navbarColor01"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <router-link class="nav-link" to="/">Accueil</router-link>
+
+          <span class="sr-only">(current)</span>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/Femmes">Femmes</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/Hommes">Hommes</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/Panier">Panier</router-link>
+        </li>
+
+      <li class="nav-item">
+          <router-link class="nav-link" to="/SeConnecter">Se connecter</router-link>
+        </li>
+      </ul>
+
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="Rechercher un produit" />
+        <button class="btn btn-secondary my-2 my-sm-0" type="submit">
+          Ok
+        </button>
+      </form>
+    </div>
+  </nav>
 </template>
 
-
-<script>
-export default {
-    
-}
-</script>
-
-
-
 <style>
-
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
   background-color: #eef7f5;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.menu {
-    display: flex;
-    justify-content: space-around;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    border-bottom: 1px solid #2cbdae;
+.navbar {
+  position: relative;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+  display: flex;
+  background-color: #42b983;
 }
-
-.link {
-    font-size: 20px;
-    text-decoration: none;
-    color: #2cbdae;
+.nav-link {
+  font-size: 15;
+  color: black;
+  text-decoration: none;
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 200px;
 }
-
-.link:hover {
-    color: #e9e1bd;
+.nav-link:hover {
+  background-color: rgb(221, 221, 221);
+  color: black;
 }
-
+.nav-item {
+  color: black;
+}
 </style>
