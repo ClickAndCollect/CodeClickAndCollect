@@ -26,6 +26,7 @@ export default {};
 }
 
 p {
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
 }
 </style>
