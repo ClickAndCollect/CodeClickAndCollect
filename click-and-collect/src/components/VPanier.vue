@@ -26,12 +26,6 @@
 
 .table {
   margin-top: 30px;
-  background-color: #42b983;
-  color: white;
 }
 
-.panier {
-  padding-left: 280px;
-  padding-right: 280px;
-}
 </style>
