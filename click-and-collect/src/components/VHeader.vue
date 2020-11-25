@@ -72,7 +72,6 @@ body {
   margin-left: 200px;
 }
 .nav-link:hover {
-  background-color: rgb(221, 221, 221);
   color: black;
 }
 .nav-item {

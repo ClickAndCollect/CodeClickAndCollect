@@ -8,7 +8,7 @@
 import VInscription from '../components/VInscription.vue'
 export default {
   components: {
-    VInscription
+    VInscription,
   }
 }
 </script>

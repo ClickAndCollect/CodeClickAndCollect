@@ -46,10 +46,6 @@ legend {
   margin-right: 150px;
   font-size: 20px;
 }
-.btn {
-  margin-left: 50px;
-
-}
 .btn-inscription {
   border-radius: 50px;
   margin-left: 50px;

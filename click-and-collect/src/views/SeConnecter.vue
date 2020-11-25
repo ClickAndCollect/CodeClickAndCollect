@@ -8,7 +8,7 @@
 import VConnexion from '../components/VConnexion.vue'
 export default {
   components: {
-    VConnexion
+    VConnexion,
   }
 }
 </script>

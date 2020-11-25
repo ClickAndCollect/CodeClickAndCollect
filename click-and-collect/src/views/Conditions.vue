@@ -1,17 +1,17 @@
 <template>
-  <div class="femme">
-    <v-femme></v-femme>
+  <div class="cgv">
+    <v-conditions></v-conditions>
     <v-footer></v-footer>
   </div>
 </template>
 
 <script>
-import VFemme from '../components/VFemme.vue'
+import VConditions from '../components/VConditions.vue'
 import VFooter from '../components/VFooter.vue'
 export default {
   components: {
-    VFemme,
-    VFooter
+    VConditions,
+    VFooter,
   }
 }
 </script>
