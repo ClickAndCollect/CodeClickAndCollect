@@ -8,7 +8,7 @@
         <div class="panel-heading">Le Mâle de Jean-Paul Gaultier - 35ml</div>
         <div class="panel-body"><img src="..\assets\Hommes\11-LeMale-JeanPaulGautier.jpg" class="img-responsive" style="width:50%" alt="Image"></div>
         <div class="panel-footer">Jean-Paul Gaultier propose un hommage à une figure symbolique qui l’inspire depuis toujours : le marin. Le Male, aussi viril que sexy, est une fragrance qui offre une vision anticonformiste de la masculinité. Un parfum pour homme au sillage extrêmement moderne.
-</div>
+  </div>
         <div style="margin-top: 50px"><strong>Prix: 48€</strong></div>
       </div>
       <button type="button" class="btn btn-success" style="margin-bottom: 10px">Ajouter au panier</button>
@@ -81,7 +81,7 @@
 <style>
 
 .container {
-  padding-left: 150px;
+  justify-content: center;
 }
 #border {
   margin-right: 30px;
