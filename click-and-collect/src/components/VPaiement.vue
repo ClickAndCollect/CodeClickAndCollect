@@ -185,6 +185,9 @@
               <div class="np-loader"></div>
             </div>
           </button>
+          <br>
+          <br>
+          <img src="..\assets\cartes.png">
         </div>
       </form>
     </div>
