@@ -13,7 +13,7 @@
       </table>
       Sous total : <span class="subtotal"></span> €
       <div>
-        <button type="button" class="btn btn-success">Payer la commande</button>
+        <button type="button" class="btn btn-success"><router-link to="/Paiement">Passer la commande</router-link></button>
       </div>
     </div>
   </div>
