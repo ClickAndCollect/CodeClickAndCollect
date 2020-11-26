@@ -12,6 +12,7 @@
         <ul class="nav__ul">
           <li>
             <router-link to="/Conditions">Conditions Générales</router-link>
+            <router-link to="/Facture">Facture</router-link>
           </li>
         </ul>
       </li>

@@ -182,7 +182,7 @@
             data-trigger="hover"
           >
             <div class="np-button-content">
-              <span data-display="submit-value">Payer</span>
+              <span data-display="submit-value"><router-link to="/Facture"></router-link>Payer</span>
               <div class="np-loader"></div>
             </div>
           </button>
