@@ -173,11 +173,6 @@
 .totals tr td {
   font-size: 13px;
 }
-
-.footer {
-  background-color: #eeeeeea8;
-}
-
 .footer span {
   font-size: 12px;
 }
