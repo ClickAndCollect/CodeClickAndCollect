@@ -13,6 +13,7 @@
           <li>
             <router-link to="/Conditions">Conditions Générales</router-link>
             <router-link to="/Facture">Facture</router-link>
+            <router-link to="/Admin">Admin</router-link>
           </li>
         </ul>
       </li>
