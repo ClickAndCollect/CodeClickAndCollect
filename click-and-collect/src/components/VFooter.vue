@@ -11,9 +11,6 @@
       <li class="nav__item">
         <ul class="nav__ul">
           <li>
-            <a href="#">FAQ</a>
-          </li>
-          <li>
             <router-link to="/Conditions">Conditions Générales</router-link>
           </li>
         </ul>

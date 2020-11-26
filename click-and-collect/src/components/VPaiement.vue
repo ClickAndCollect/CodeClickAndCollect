@@ -96,7 +96,8 @@
                   <input
                     data-centralpay="card[expirationMonth]"
                     type="tel"
-                    pattern="[0-9]{1,2}"
+                    max="12"
+                    pattern="[0-9]{2}"
                     maxlength="2"
                     autocomplete="off"
                     class="form-control form-card-data"
