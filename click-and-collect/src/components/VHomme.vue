@@ -80,11 +80,10 @@
 
 <style>
 
-.container {
+.row {
   justify-content: center;
 }
 #border {
-  margin-right: 30px;
   margin-top: 50px;
   border-radius: 10px;
   box-shadow: 8px 8px 2px 1px grey;

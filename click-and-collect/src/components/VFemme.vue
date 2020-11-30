@@ -49,7 +49,7 @@
   </div>
 </div><br>
 
-<div class="container">    
+<div class="container">   
   <div class="row">
     <div id="border" class="col-md-5">
       <div class="panel panel-primary">
@@ -80,15 +80,14 @@
 </template>
 
 <style>
-
-.container {
-  padding-left: 150px;
+.row {
+  justify-content: center;
 }
-  #border {
-    margin-right: 30px;
-    margin-top: 50px;
-    border-radius: 10px;
-    box-shadow: 8px 8px 2px 1px grey;
-  }
+#border {
+  margin-right: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 8px 8px 2px 1px grey;
+}
 </style>
 

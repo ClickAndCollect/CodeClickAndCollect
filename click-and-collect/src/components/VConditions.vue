@@ -15,7 +15,7 @@
       réserve d’en informer préalablement l’Acheteur. Les présentes conditions
       générales de vente seront applicables dès leur mise en ligne. Les
       présentes conditions générales de vente s’appliquent à toute commande par
-      l’Acheteur sur le site internet Mbtechinfo ci-après dénommé « le Site ».
+      l’Acheteur sur le site internet Monde du parfum ci-après dénommé « le Site ».
       <h3>Article 1</h3>
       Intégralité Les présentes conditions générales expriment l’intégralité des
       obligations des parties. En ce sens, l’Acheteur est réputé les accepter
@@ -38,7 +38,7 @@
       l’acheteur, le Vendeur se réserve le droit de bloquer la commande de
       l’Acheteur jusqu’à la résolution du problème. Pour toute question relative
       au suivi d’une commande, l’Acheteur doit contacter le Vendeur par courrier
-      électronique à l’adresse suivante : contact.mbtechinfo@gmail.com
+      électronique à l’adresse suivante : contact.mondeduparfum@gmail.com
       <h3>Article 4</h3>
       Signature électronique Le règlement de la commande via le service Stripe
       vaudra preuve de l’accord de l’Acheteur conformément aux dispositions de
@@ -47,7 +47,7 @@
       opérations effectuées. En cas d’utilisation frauduleuse de sa carte
       bancaire, l’Acheteur est invité, dès le constat de cette utilisation, à
       contacter le Vendeur par courrier électronique à l’adresse suivante :
-      contact.mbtechinfo@gmail.com.
+      contact.mondeduparfum@gmail.com
       <h3>Article 5</h3>
       Preuve de la transaction Le paiement étant géré par le service Paypal, les
       notifications de ce service seront considérés comme les preuves des
@@ -93,7 +93,7 @@
       <h3>Article 9</h3>
       Modalités de livraison Une fois que le service paypal aura reçu la
       confirmation du paiement par l’organisme bancaire du Vendeur, l’Acheteur
-      sera automatiquement redirigé sur le site privé (Mbtechinfo) L’Acheteur
+      sera automatiquement redirigé sur le site privé (Monde du parfum) L’Acheteur
       recevra également un email récapitulant ses identifiants de connexion au
       site privé suite à sa commande.
       <h3>Article 10</h3>
@@ -105,7 +105,7 @@
       rembourser l’Acheteur par tout moyen dans un délai de 14 jours. Le Vendeur
       propose également à l’Acheteur de lui rembourser les produits achetés sous
       un délai de 30 jours sur simple demande adressée par email à
-      contact.mbtechinfo@gmail.com.
+      contact.mondeduparfum@gmail.com
       <h3>Article 11</h3>
       Force majeure Toutes circonstances indépendantes de la volonté des parties
       empêchant l’exécution dans des conditions normales de leurs obligations

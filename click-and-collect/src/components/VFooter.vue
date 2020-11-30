@@ -3,17 +3,17 @@
     <div class="footer__addr">
       <h2>Contact</h2>
       <address>1 rue du Panda, Paris, 75016
-      <a class="footer__btn" href="baptistedantaspro@gmail.com">Envoyez  un mail</a>
+      <a class="footer__btn" href="contact.mondeduparfum@gmail.com">Envoyez  un mail</a>
       </address>
+      <router-link to="/Conditions">Conditions Générales</router-link>
     </div>
 
     <ul class="footer__nav">
       <li class="nav__item">
         <ul class="nav__ul">
           <li>
-            <router-link to="/Conditions">Conditions Générales</router-link>
-            <router-link to="/Facture">Facture</router-link>
-            <router-link to="/Admin">Admin</router-link>
+            <router-link to="/Facture">Facture</router-link> <!--SUPPRIMER-->
+            <router-link to="/Admin">Admin</router-link> <!--SUPPRIMER-->
           </li>
         </ul>
       </li>

@@ -95,7 +95,7 @@
                   </div>
                   <input
                     data-centralpay="card[expirationMonth]"
-                    type="tel"
+                    type="number"
                     max="12"
                     pattern="[0-9]{2}"
                     maxlength="2"
@@ -106,7 +106,7 @@
                   />
                   <input
                     data-centralpay="card[expirationYear]"
-                    type="tel"
+                    type="number"
                     max="9999"
                     inputmode="tel"
                     pattern="[0-9]{4}"
